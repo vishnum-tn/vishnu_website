@@ -5,3 +5,5 @@ greet()
 
 print("Hello", end="")
 greet()     
+print("Hello", end=" ")
+
