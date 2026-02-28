@@ -55,5 +55,3 @@ document.querySelectorAll('section').forEach(section => {
 });
 
 console.log('✨ Portfolio website loaded! Welcome to Vishnu\'s Profile');
-adlskas;j
-j;wdlsa
